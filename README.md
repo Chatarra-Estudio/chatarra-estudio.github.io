@@ -5,6 +5,6 @@ Chatarra-Estudio/
 
 Chatarra-Estudio/
 
-chatarra.github.io
+https://chatarra-estudio.github.com/
 
 Chatarra-Estudio/
