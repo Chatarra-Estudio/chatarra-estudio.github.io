@@ -3,7 +3,8 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>Chatarra Estudio</title>
-    <style>		
+    <style>	
+                /* Estilos para el cuerpo? */
       body {font-family: 'Chakra Petch', sans-serif;}
       h1 {
   			display: block;
@@ -45,6 +46,23 @@
   	flex-direction: row;
 	
 	}
+          /* Estilos para el primer menú */
+    #menu1 {
+      position: fixed;
+      top: 0;
+      right: 0;
+      background-color: black;
+      color: white;
+    }
+
+    /* Estilos para el segundo menú */
+    #menu2 {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      background-color: black;
+      color: white;
+    }
 </style> <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
     <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch&amp;display=swap"
@@ -52,10 +70,13 @@
       rel="stylesheet">
   </head>
   <body>
+    <div id="menu1">
+      <!-- Contenido del primer menú --> <a href="https://chatarra-estudio.github.io/">Inicio
+        Chatarrero</a> <a href="https://chatarra-estudio.github.io/">Acerca de</a>
+      <a href="https://chatarra-estudio.github.io/">Contacto</a> </div>
+    <!-- Contenido del cuerpo -->
     <div class="contenedor">
-      <div class="menu1"> <a href="https://josegarciamoreno.github.io/Chatarra-Estudio/"><img
-
-            src="https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/70e65eb1e93be1f5e078f44b9d079c851a806f45/imagen/chatarra348x97.png"
+      <div class="menu1"> <a href="https://chatarra-estudio.github.io/"><img src="https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/70e65eb1e93be1f5e078f44b9d079c851a806f45/imagen/chatarra348x97.png"
 
             style="width: 348px; height: 97px;" id="logoheader"></a>
         <h1 style="background-color: white;"> <span style="color: white;">Chatarra
@@ -516,6 +537,11 @@
             title="Jose" target="_blank"><img style="height: 50px" src="https://josegarciamoreno.github.io/template_hmtl/images/lobo01_276x276_blanco.png"></a>
         </div>
         <!-- –– cierro bloque de juejos: texto + imagen ––--> </footer>
+    </div>
+    <!-- Contenido del se menú -->
+    <div id="menu2">
+      <!-- Contenido del segundo menú --> <a href="https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/modelotexto_menu_2022.html">2022</a>
+      <a href="https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/modelotexto_menu_2022.html">2022</a>
     </div>
   </body>
 </html>
