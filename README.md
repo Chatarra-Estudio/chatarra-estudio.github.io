@@ -27,6 +27,8 @@ Chatarra-Estudio/
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2016/cyclopi_2017.html
 
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2016/cyclopisoftware.html
+
 https://chatarra-estudio.github.io/landing2023/23M1M_mural_dorin.html
 
 https://chatarra-estudio.github.io/landing2023/23M13V_vitrina.html
