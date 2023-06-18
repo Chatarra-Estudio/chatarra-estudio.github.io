@@ -1,5 +1,10 @@
 # web
 Página de Chatarra Estudio
+
+
+Arrglar :
+https://chatarra-estudio.github.io/landing2023/crazytrontruck17.html
+
 Landing páginas:
 
 https://chatarra-estudio.github.io/
