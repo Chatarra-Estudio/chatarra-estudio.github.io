@@ -1,23 +1,22 @@
 # web
 Página de Chatarra Estudio
 
-Arrglar :
+https://chatarra-estudio.github.io/
+
+https://github.com/JoseGarciaMoreno/Chatarra-Estudio GIT
+
+
+Landing páginas:
 
 https://chatarra-estudio.github.io/landing2023/cyclopi2017.html
 
 https://chatarra-estudio.github.io/landing2023/crazytrontruck17.html
-
-Landing páginas:
-
-https://chatarra-estudio.github.io/
 
 https://chatarra-estudio.github.io/landing2023/amortiguador.html
 
 https://chatarra-estudio.github.io/landing2023/chatarra_2021.html
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/modelotexto_menu_2022.html
-
-https://github.com/JoseGarciaMoreno/Chatarra-Estudio GIT
 
 
 Juegos
