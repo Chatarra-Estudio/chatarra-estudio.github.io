@@ -8,6 +8,8 @@ https://github.com/JoseGarciaMoreno/Chatarra-Estudio GIT
 
 Landing páginas:
 
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/sensor/acelera.html
+
 https://chatarra-estudio.github.io/landing2023/cyclopi2017.html
 
 https://chatarra-estudio.github.io/landing2023/crazytrontruck17.html
