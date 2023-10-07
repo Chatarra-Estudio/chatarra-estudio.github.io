@@ -8,6 +8,8 @@ https://github.com/JoseGarciaMoreno/Chatarra-Estudio GIT
 
 Landing páginas:
 
+https://chatarra-estudio.github.io/landing2023/hueco/so.html
+
 https://chatarra-estudio.github.io/landing2023/septiembre/rojo.html
 
 https://chatarra-estudio.github.io/landing2023/call_of/ferdi.html
