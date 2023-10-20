@@ -10,6 +10,8 @@ Landing páginas:
 
 https://chatarra-estudio.github.io/landing2023/platillo/volante.html
 
+![Platillo Chatarrero](https://raw.githubusercontent.com/Chatarra-Estudio/chatarra-estudio.github.io/6c4339c0a13c14afdd3aaac6a9429bc5b5d11093/landing2023/platillo/platillo_2.jpg)
+
 https://chatarra-estudio.github.io/landing2023/hueco/so.html
 
 https://chatarra-estudio.github.io/landing2023/septiembre/rojo.html
